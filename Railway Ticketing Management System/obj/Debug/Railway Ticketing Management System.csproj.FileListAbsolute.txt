@@ -1,0 +1,14 @@
+D:\AIUB\5th Semester\OOP2(C#)\OOP_2\Railway Ticketing Management System\Railway Ticketing Management System\bin\Debug\Railway Ticketing Management System.exe.config
+D:\AIUB\5th Semester\OOP2(C#)\OOP_2\Railway Ticketing Management System\Railway Ticketing Management System\obj\Debug\Railway_Ticketing_Management_System.Clerk.resources
+D:\AIUB\5th Semester\OOP2(C#)\OOP_2\Railway Ticketing Management System\Railway Ticketing Management System\obj\Debug\Railway_Ticketing_Management_System.Login.resources
+D:\AIUB\5th Semester\OOP2(C#)\OOP_2\Railway Ticketing Management System\Railway Ticketing Management System\obj\Debug\Railway_Ticketing_Management_System.MainForm.resources
+D:\AIUB\5th Semester\OOP2(C#)\OOP_2\Railway Ticketing Management System\Railway Ticketing Management System\obj\Debug\Railway_Ticketing_Management_System.Properties.Resources.resources
+D:\AIUB\5th Semester\OOP2(C#)\OOP_2\Railway Ticketing Management System\Railway Ticketing Management System\obj\Debug\Railway_Ticketing_Management_System.Railway_System.resources
+D:\AIUB\5th Semester\OOP2(C#)\OOP_2\Railway Ticketing Management System\Railway Ticketing Management System\obj\Debug\Railway Ticketing Management System.csproj.GenerateResource.Cache
+D:\AIUB\5th Semester\OOP2(C#)\OOP_2\Railway Ticketing Management System\Railway Ticketing Management System\bin\Debug\Railway Ticketing Management System.exe
+D:\AIUB\5th Semester\OOP2(C#)\OOP_2\Railway Ticketing Management System\Railway Ticketing Management System\bin\Debug\Railway Ticketing Management System.pdb
+D:\AIUB\5th Semester\OOP2(C#)\OOP_2\Railway Ticketing Management System\Railway Ticketing Management System\obj\Debug\Railway Ticketing Management System.exe
+D:\AIUB\5th Semester\OOP2(C#)\OOP_2\Railway Ticketing Management System\Railway Ticketing Management System\obj\Debug\Railway Ticketing Management System.pdb
+D:\AIUB\5th Semester\OOP2(C#)\OOP_2\Railway Ticketing Management System\Railway Ticketing Management System\obj\Debug\Railway_Ticketing_Management_System.Register.resources
+D:\AIUB\5th Semester\OOP2(C#)\OOP_2\Railway Ticketing Management System\Railway Ticketing Management System\obj\Debug\Railway Ticketing Management System.csproj.AssemblyReference.cache
+D:\AIUB\5th Semester\OOP2(C#)\OOP_2\Railway Ticketing Management System\Railway Ticketing Management System\obj\Debug\Railway Ticketing Management System.csproj.CoreCompileInputs.cache
